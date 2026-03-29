@@ -4,3 +4,7 @@ it helpful to add tickets by multiple users and to manage those tickets accordin
 Admin is only able to change any ticket status and priority after once ticket is added by the user
 this project is very helpful to manage ticketing issues 
 project is very easy to use and very user friendy 
+
+
+DataBase php mysql
+i added the DB sql file which contain the DB table And some Data
